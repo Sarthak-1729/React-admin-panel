@@ -1,0 +1,18 @@
+.sidebar {
+width: 200px;
+background: #333;
+color: white;
+padding: 20px;
+display: flex;
+flex-direction: column;
+}
+
+
+.sidebar button {
+margin: 10px 0;
+padding: 10px;
+background: #444;
+color: white;
+border: none;
+text-align: left;
+}
